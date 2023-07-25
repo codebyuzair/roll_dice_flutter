@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#SnapShot
+# SnapShot
 ![Diceee](https://github.com/codebyuzair/roll_dice_flutter/assets/134750614/640dd238-975b-447c-af68-7cdd2faa4abf)
